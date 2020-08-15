@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap");
+
+html {
+  background-color: #f75682;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  color: #e1d108;
+}
+
+ul {
+  background-color: white;
+  padding: 25px 50px;
+  margin:0;
+  font-size: 1.25em;
+  width:700px;
+}
+
+li,
+ul a {
+  color: #4a9ce6;
+  font-weight: 900;
+  text-transform: uppercase;
+  display: inline;
+  text-decoration: none;
+  margin:0;
+}
+
+li:hover {
+  color: white;
+  background-color: #e1d108;
+  margin:0;
+}
+
+.container a {
+  color: #e1d108;
+  font-weight: 900;
+  display: inline;
+  text-decoration: underline;
+  margin:0;
+}
+
+.container a:hover {
+  color:white;
+  background-color: #f75682;
+  font-weight: 900;
+  display: inline;
+  text-decoration: underline;
+  margin:0;
+}
+
+.logo {
+  width: 200px;
+  margin: 25px 0 0 0;
+}
+
+.description {
+  margin: 10px 0 50px 0;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0;
+  width: 700px;
+  color:white;
+  background-color:#4a9ce6;
+  padding: 50px;
+  line-height:2;
+}
+
+.thought {
+  display:block;
+  margin:50px;
+  color:#4a9ce6;
+  background-color:white;
+  color:#4a9ce6;
+  padding: 50px;
+  text-align:center;
+}
+
+h2 {
+  margin:50px 0 25px 0;
+  text-transform:uppercase;
+}
+
+.copyright {
+  color:white;
+  font-size:10pt;
+  font-weight:400;
+  margin:50px;
+}
+
+.copyright a {
+  color:#e1d108;
+}
