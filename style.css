@@ -74,7 +74,7 @@ li:hover {
 }
 
 .container {
-  margin: 0 auto;
+  margin: 0 auto 20px auto;
   padding: 0;
   width: 700px;
   color:white;
@@ -102,7 +102,7 @@ h2 {
   color:white;
   font-size:10pt;
   font-weight:400;
-  margin:50px;
+  margin:30px;
 }
 
 .copyright a {
