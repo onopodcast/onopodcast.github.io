@@ -20,7 +20,7 @@ ul {
   background-color: white;
   padding: 25px 50px;
   margin:0;
-  font-size: 1.25em;
+  font-size: 1.49em;
   width:700px;
 }
 
@@ -79,7 +79,7 @@ li:hover {
   width: 700px;
   color:white;
   background-color:#4a9ce6;
-  padding: 50px;
+  padding: 20px 50px;
   line-height:2;
 }
 
@@ -94,7 +94,7 @@ li:hover {
 }
 
 h2 {
-  margin:50px 0 25px 0;
+  margin:25px 0 25px 0;
   text-transform:uppercase;
 }
 
@@ -102,7 +102,7 @@ h2 {
   color:white;
   font-size:10pt;
   font-weight:400;
-  margin:30px;
+  margin:25px;
 }
 
 .copyright a {
